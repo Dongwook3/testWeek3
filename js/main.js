@@ -1,4 +1,5 @@
 (function() {
+	//I'm testing github
 	var httpRequest,
 		ajaxText = document.querySelector('.placeholder'),
 		ajaxButton = document.querySelector('.wrapper');
